@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings/
+target/
+bin/
+
+.pydevproject
+.pydevproject
+.idea
+*.iml
+
+# Python:
+*.py[cod]
